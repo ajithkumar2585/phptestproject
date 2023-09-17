@@ -1,5 +1,5 @@
-Hello! Welcom to MyProject!
+Hello! Welcome to MyProject!
 
 Author:Ajith
-Project : MyTest
-Application : gittest
+Project : My-Test
+Application : Git-Test
